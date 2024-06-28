@@ -4,11 +4,10 @@ Pod Members: **Brenda Aceves, Anita Dugbartey, Andrey Fernandez **
 
 ## Problem Statement
 
-Insert your groups problem statement and target audience.
+Only 64% of projects meet their goals and 39% of all projects succeed (delivered on time, on budget, and with required features and functions. While many struggle with coming up with project ideas, even after having an idea making progress can be difficult. Our application aims to support individuals and teams to develop their ideas into fully-fledged projects.
 
 ## Description
-
-Only 64% of projects meet their goals and 39% of all projects succeed (delivered on time, on budget, and with required features and functions. While many struggle with coming up with project ideas, even after having an idea making progress can be difficult. Our application aims to support individuals and teams to develop their ideas into fully-fledged projects.
+The main purpose of our project is to create a platform that helps users efficiently generate, refine, and manage project ideas. It addresses the common pain point of struggling to get new projects off the ground by providing tools and features that streamline the ideation and management processes. 
 
 ## Expected Features List
 
