@@ -11,7 +11,7 @@ The main purpose of our project is to create a platform that helps users efficie
 
 ## Expected Features List
 
-`- Idea generation and refinement
+- Idea generation and refinement
 - Project planning and management
 - Team collaboration
 - Progress tracking
