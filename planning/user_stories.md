@@ -125,11 +125,12 @@ Team Member
 8. As a team member, I want to participate in our team’s project ideation process, so I can stay up-to-date about our project’s goals, status and direction for the future
 9. As a team member, I want to share documents and resources with my team, so I can ensure everyone has access to the latest information.
 
+
 Independent Developer
 10. As an independent developer, I want to discuss my ideas for potential projects with other users.
 11. As an independent developer, I want to keep track of tasks for my projects.
 12. As an independent developer, I want to discover project ideas, so that I can build a full-fledged project for my personal portfolio.
-13. As an independent developer, I want to showcase my completed project to other developers, so I can get actionable feedback and make improvements
+13. As an independent developer, I want to showcase my completed project to other developers, so I can get actionable feedback and make improvement
 14. As an independent developer, I want to be rewarded for logging onto the application, completing tasks, making posts on the forum, and working on my project, so I can stay motivated and continue using the application.
 
 
