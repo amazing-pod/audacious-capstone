@@ -56,11 +56,10 @@ Pages:
 
 
 ## Data Model
-[https://lucid.app/lucidchart/309c8f84-60b7-43be-8434-5968bf7b3603/edit?invitationId=inv_474e1b5b-31b8-4f1b-9af7-ff5e67fd1cae&page=0_0#
-](url)
+https://lucid.app/lucidchart/309c8f84-60b7-43be-8434-5968bf7b3603/edit?invitationId=inv_474e1b5b-31b8-4f1b-9af7-ff5e67fd1cae&page=0_0#
+
 ## Endpoints
-[https://lucid.app/lucidchart/309c8f84-60b7-43be-8434-5968bf7b3603/edit?invitationId=inv_474e1b5b-31b8-4f1b-9af7-ff5e67fd1cae&page=0_0#
-](url)
+https://lucid.app/lucidchart/309c8f84-60b7-43be-8434-5968bf7b3603/edit?invitationId=inv_474e1b5b-31b8-4f1b-9af7-ff5e67fd1cae&page=0_0#
 
 ## Project Board:
-[https://trello.com/b/sAVwvlMX/genesis](url)
+https://trello.com/b/sAVwvlMX/genesis
