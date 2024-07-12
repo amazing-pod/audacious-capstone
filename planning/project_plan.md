@@ -56,11 +56,11 @@ Pages:
 
 
 ## Data Model
-
-Describe your app's data model using diagrams or tables
-
+[https://lucid.app/lucidchart/309c8f84-60b7-43be-8434-5968bf7b3603/edit?invitationId=inv_474e1b5b-31b8-4f1b-9af7-ff5e67fd1cae&page=0_0#
+](url)
 ## Endpoints
+[https://lucid.app/lucidchart/309c8f84-60b7-43be-8434-5968bf7b3603/edit?invitationId=inv_474e1b5b-31b8-4f1b-9af7-ff5e67fd1cae&page=0_0#
+](url)
 
-List the API endpoints you will need to implement.
-
-***Don't forget to set up your Issues, Milestones, and Project Board!***
+## Project Board:
+[https://trello.com/b/sAVwvlMX/genesis](url)
