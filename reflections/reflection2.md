@@ -21,7 +21,7 @@ We anticipated starting our stretch features this week but were able to finish w
 
 * Did the resources provided to you help prepare you in planning and executing your capstone project sprint this week? Be specific, what resources did you find particularly helpful or which tasks did you need more support on?
 
- Add response here
+Yes, the resources provided helped with planning and executing the capstone project sprint this week, in particular the resource about how to plan an MVP was helpful.
 
 * Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
 
