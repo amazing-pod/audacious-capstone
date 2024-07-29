@@ -6,9 +6,9 @@ SITE Course Year: **2024**
 
 Cohort: **Add Company Sponsor Name**
 
-Team Member Names:**Insert Team Member Names**
+Team Member Names:**Brenda Nallely Aceves Limon, Andrey Fernandez, Anita Dugbartey**
 
-Mentors Names: **Insert Professional Mentor Names**
+Mentors Names: **Lisa Church, Sridhar Srigiriraju, Carlos Montano**
 
 Project Code Repository Links
 
