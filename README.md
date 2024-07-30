@@ -12,8 +12,8 @@ Mentors Names: **Lisa Church, Sridhar Srigiriraju, Carlos Montano**
 
 Project Code Repository Links
 
-* [Frontend Repo Link](https://audacious-capstone-ui.onrender.com)
-* [Backend Repo Link](https://audacious-capstone-backend-1.onrender.com)
+* [Frontend Repo Link]()
+* [Backend Repo Link]()
 
 ## Project Overview
 
