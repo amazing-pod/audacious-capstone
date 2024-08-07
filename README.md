@@ -4,7 +4,7 @@
 
 SITE Course Year: **2024**
 
-Cohort: **Add Company Sponsor Name**
+Cohort: **2024 Salesforce Futureforce TechLaunchPad Program**
 
 Team Member Names: **Brenda Nallely Aceves Limon, Andrey Fernandez, Anita Dugbartey**
 
@@ -17,10 +17,15 @@ Project Code Repository Links
 
 ## Project Overview
 
-Add a quick summary of what your project theme and objectives are. 
+Our project, Genesis, is an AI-assisted productivity platform designed to support product managers and engineers in building community and refining their projects. The platform includes:
+
+Community Forum: A space for users to share and discuss their projects and ideas, fostering collaboration and feedback.
+Brainstorm Page: Equipped with tools for managing ideas and projects, enabling users to brainstorm, organize, and develop their concepts effectively.
+Home Page: Features posts from the community forum and displays users' ideas and projects, enriched with evaluations powered by OpenAI's API.
 
 Deployment Website: **https://audacious-capstone-ui.onrender.com**
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+- Clerk
+- OpenAI API
