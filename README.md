@@ -3,7 +3,7 @@
 
 SITE Course Year: **2024**
 
-Cohort: **2024 Salesforce Futureforce TechLaunchPad Program**
+Cohort: **2024 Salesforce Futureforce Tech LaunchPad Program**
 
 Team Member Names: **Brenda Nallely Aceves Limon, Andrey Fernandez, Anita Dugbartey**
 
